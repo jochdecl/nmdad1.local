@@ -4,5 +4,5 @@ Opleidingsonderdeel: New media design & devolpment I
 Academiejaar: 2016-2017  
 Opleiding: Bachelor in de grafische en digitale media  
 Afstudeerrichting: Multimediaproductie  
-Keuzeoptie: proDUC  
+Keuzeoptie: proDUCE  
 Opleidingsinstelling: Arteveldehogeschool
